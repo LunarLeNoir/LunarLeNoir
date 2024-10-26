@@ -1,7 +1,5 @@
 # 👋 Bonjour, je suis @Lunar
 
-![IMG](https://github.com/LunarLeNoir/LunarLeNoir/blob/main/Lunar.png)
-
 ## 👀 Intérêts
 Je suis passionné par le développement Python et je m'intéresse particulièrement à la cybersécurité. J'aime explorer les nouvelles technologies.
 
